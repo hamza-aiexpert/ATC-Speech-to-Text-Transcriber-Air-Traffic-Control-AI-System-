@@ -37,3 +37,17 @@ The system provides an end-to-end pipeline from audio input to structured transc
 - Navigate to `/dist/`
 - Run `app_updated.exe`
 
+- ## 📥 Download Executable
+
+You can download and run the standalone desktop application here:
+
+👉 https://drive.google.com/file/d/1-IQOVneoj6ST9p__IErfmRHrL55kGJ5e/view?usp=sharing
+
+### Instructions:
+1. Download the `.exe` file from the link above  
+2. Run the application on Windows  
+3. Upload or record ATC audio  
+4. View real-time transcription output  
+
+> ⚠️ Note: Windows Defender may show a warning since the app is not signed. Click "More info" → "Run anyway".
+
