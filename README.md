@@ -37,7 +37,7 @@ The system provides an end-to-end pipeline from audio input to structured transc
 - Navigate to `/dist/`
 - Run `app_updated.exe`
 
-- ## 📥 Download Executable
+## 📥 Download Executable
 
 You can download and run the standalone desktop application here:
 
