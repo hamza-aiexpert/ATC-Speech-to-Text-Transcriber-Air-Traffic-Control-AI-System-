@@ -1,4 +1,7 @@
 # ATC-Speech-to-Text-Transcriber-Air-Traffic-Control-AI-System-
+## 🎥 Demo & Setup
+
+[![Watch the Demo](https://img.youtube.com/vi/FAIocnBKEok/0.jpg)](https://www.youtube.com/watch?v=FAIocnBKEok)
 An AI-powered Air Traffic Control (ATC) transcription system that converts aviation communication into accurate text using speech recognition and natural language processing techniques.
 
 ## 🚀 Overview
